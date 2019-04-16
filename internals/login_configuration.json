@@ -1,0 +1,27 @@
+{
+  "Auth": {
+    "identityPoolId": "xxxxxx",
+    "region": "xxxxxx",
+    "aws_mandatory_sign_in": true
+  },
+  "federated": {
+    "facebook_app_id": "xxxxxx"
+  },
+  "API": {
+    "aws_appsync_graphqlEndpoint": "xxxxx",
+    "aws_appsync_region": "xxxxxx",
+    "graphql_endpoint_iam_region": "xxxxxx",
+    "aws_appsync_authenticationType": "AWS_IAM",
+    "aws_appsync_apiKey": "xxxxxx"
+  },
+  "aws_appsync_graphqlEndpoint": "xxxxxx",
+  "aws_appsync_region": "xxxxxx",
+  "graphql_endpoint_iam_region": "xxxxxx",
+  "aws_appsync_authenticationType": "AWS_IAM",
+  "aws_appsync_apiKey": "xxxxxx",
+  "Storage": {
+    "bucket": "lango-ui-audio",
+    "region": "xxxxxx",
+    "identityPoolId": "xxxxxx"
+  }
+}
